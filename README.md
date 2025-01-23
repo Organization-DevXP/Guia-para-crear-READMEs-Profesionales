@@ -37,35 +37,3 @@ Proveer a desarrolladores de todos los niveles una referencia clara y práctica 
 3. 
 4.
 5.
-
-
-# Estructura del Repositorio
-/**
-```bash
-📁 guia-para-crear-readmes-profesionales/
-├── README.md                  # README principal del repositorio
-├── /1-introduccion/           # Carpeta con contenido sobre la introducción
-│   ├── README.md              # Explicación de qué es un README y su importancia
-│   ├── ejemplo-introductorio.md
-├── /2-estructura-basica/      # Carpeta sobre estructura básica de un README
-│   ├── README.md              # Explicación de los elementos básicos
-│   ├── ejemplo-basico.md      # Ejemplo de un README básico
-├── /3-elementos-adicionales/  # Carpeta sobre elementos extra en un README
-│   ├── README.md              # Explicación de contribuciones, licencias, etc.
-│   ├── ejemplo-licencia.md    # Ejemplo de sección de licencia
-│   ├── ejemplo-contribuciones.md
-├── /4-buenas-practicas/       # Carpeta sobre buenas prácticas
-│   ├── README.md              # Consejos y ejemplos de mejores prácticas
-│   ├── ejemplos-buenas-practicas.md
-├── /5-personalizacion/        # Carpeta sobre personalización del README
-│   ├── README.md              # Explicación de badges, imágenes, etc.
-│   ├── ejemplo-badges.md      # Ejemplo con badges
-│   ├── ejemplo-capturas.md    # Ejemplo con capturas y gifs
-├── /6-ejemplos-completos/     # Ejemplos completos de README
-│   ├── README.md              # Índice de los ejemplos completos
-│   ├── ejemplo-proyecto-pequeno.md
-│   ├── ejemplo-proyecto-avanzado.md
-└── /7-recursos-adicionales/   # Recursos y enlaces para aprender más
-    ├── README.md              # Enlaces útiles y bibliografía
-```
-*/
