@@ -31,9 +31,10 @@ Proveer a desarrolladores de todos los niveles una referencia clara y práctica 
 
 ¡Empieza a crear README más impactantes y efectivos hoy mismo! 🚀
 
-# Índice  
-1. [Introducción](./1-Introduccion/1.Introduccion.md)  
-2. 
-3. 
+# Índice
+
+1. [Introducción](./1-Introduccion/1.Introduccion.md)
+2. [Estructura Markdown](./2-Estructura-Markdown/1.Markdown.md)
+3.
 4.
 5.
